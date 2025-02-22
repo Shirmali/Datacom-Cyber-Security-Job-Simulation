@@ -1,5 +1,5 @@
 # Datacom-Cyber-Security-Job-Simulation    
-Objective: The aim of this project is to investigate a cyberattack and conduct a comprehensive risk assessment with Datacom
+Objective: The aim of this project is to investigate a cyberattack and conduct a comprehensive risk assessment with Datacom    
 
 Gain hands-on experience with real-world cybersecurity threats.
 Utilize Open-Source Intelligence (OSINT) tools to investigate Advanced Persistent Threats (APTs), specifically focusing on APT34.
